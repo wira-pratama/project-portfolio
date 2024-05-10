@@ -3,7 +3,7 @@
         <AppHeader class="fixed"/>
     </header> -->
     <main 
-        class="min-h-screen max-w-screen p-20"
+        class="min-h-screen max-w-screen bg-white"
     >
         <slot/>
     </main>

@@ -53,6 +53,7 @@ export default defineNuxtConfig({
         '@nuxtjs/tailwindcss',
         '@vueuse/motion/nuxt',
         '@nuxtjs/sitemap',
-        'nuxt-jsonld'
+        'nuxt-jsonld',
+        "@nuxt/image"
     ]
 });
